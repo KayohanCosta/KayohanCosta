@@ -39,4 +39,7 @@ Fortaleza-CE
 ---
 
 ### Random Dev Quote
-> “To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.” – Fred Brooks <
+> “Se, a princípio, a ideia não é absurda, então não há esperança para ela.” – Albert Einstein
+
+[![](https://visitcount.itsvg.in/api?id=KayohanCosta&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
