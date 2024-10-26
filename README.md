@@ -33,8 +33,8 @@ Fortaleza-CE
 ---
 
 ### GitHub Stats:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KayohanCosta&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KayohanCosta&show_icons=true&theme=dark)
 
 ---
 
