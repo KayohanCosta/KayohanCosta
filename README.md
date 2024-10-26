@@ -38,8 +38,10 @@ Fortaleza-CE
 
 ---
 
+[![](https://visitcount.itsvg.in/api?id=KayohanCosta&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 ### Random Dev Quote
 > “Se, a princípio, a ideia não é absurda, então não há esperança para ela.” – Albert Einstein
 
-[![](https://visitcount.itsvg.in/api?id=KayohanCosta&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 
