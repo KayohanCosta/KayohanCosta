@@ -2,13 +2,13 @@
 
 👋 **Bem-vindo ao meu perfil!**
 
-Desenvolvedor Front-end Full-Stack | 29 anos, Brasileiro.
-De Fortaleza-CE
+Desenvolvedor Front-end Full-Stack | 29 anos, Brasileiro. 
+Fortaleza-CE
 
 ---
 
 ### Sobre Mim:
-- 🎓 Cursando na Universidade Estácio-SA 3° Semestre
+- 🎓 Cursando na Universidade estácio-sa 3° Semestre
 - 🖥️ Desenvolvedor Web Fullstack 
 - 📚 Estudando Inglês e espanhol nos tempos livres
 - 🚀 Apaixonado por Tecnologia 
