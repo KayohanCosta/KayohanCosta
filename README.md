@@ -39,4 +39,4 @@ Fortaleza-CE
 ---
 
 ### Random Dev Quote
-> “To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.” – Fred Brooks
+> “To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.” – Fred Brooks <
