@@ -28,7 +28,6 @@ Fortaleza-CE
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 ---
