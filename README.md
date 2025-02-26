@@ -8,10 +8,11 @@ Fortaleza-CE
 ---
 
 ### Sobre Mim:
-- 🎓 Cursando na Universidade estácio-sa 4° Semestre
+- 🎓 Cursando na Universidade estácio-sa 3° Semestre
 - 🖥️ Desenvolvedor Web Fullstack 
 - 📚 Estudando Inglês e espanhol nos tempos livres
 - 🚀 Apaixonado por Tecnologia 
+- 🎨 Experiência com Photoshop, Illustrator e Figma
 
 ---
 
@@ -34,7 +35,12 @@ Fortaleza-CE
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
+---
+
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
 
 ---
 
