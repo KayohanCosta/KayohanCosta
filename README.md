@@ -34,12 +34,16 @@ Fortaleza-CE
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
----
-
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+
+---
+
+### Sistemas Operacionais:
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+![Mac OS](https://img.shields.io/badge/-Mac%20OS-333333?style=flat&logo=apple)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
 ---
 
