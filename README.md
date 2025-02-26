@@ -12,7 +12,7 @@ Fortaleza-CE
 - 🖥️ Desenvolvedor Web Fullstack 
 - 📚 Estudando Inglês e espanhol nos tempos livres
 - 🚀 Apaixonado por Tecnologia 
-- 🎨 Experiência com Photoshop, Illustrator e Figma
+- 🎨 Experiência com ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop), ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator) e ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 ---
 
