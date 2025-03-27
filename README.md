@@ -8,7 +8,7 @@ Fortaleza-CE
 ---
 
 ### Sobre Mim:
-- 🎓 Cursando na Universidade estácio-sa 3° Semestre
+- 🎓 Cursando na Universidade estácio-sa 4° Semestre
 - 🖥️ Desenvolvedor Web Fullstack 
 - 📚 Estudando Inglês e espanhol nos tempos livres
 - 🚀 Apaixonado por Tecnologia
