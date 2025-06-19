@@ -2,7 +2,7 @@
 
 👋 **Bem-vindo ao meu perfil!**
 
-Desenvolvedor Front-end Full-Stack | 29 anos, Brasileiro. 
+Desenvolvedor Front-end Full-Stack | 30 anos, Brasileiro. 
 Fortaleza-CE
 
 ---
