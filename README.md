@@ -1,60 +1,67 @@
 # Kayohan Da Costa Batista
 
-👋 **Bem-vindo ao meu perfil!**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Front-end+com+foco+em+UX;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo" />
+</p>
 
-Desenvolvedor Front-end Full-Stack | 30 anos, Brasileiro. 
-Fortaleza-CE
-
----
-
-### Sobre Mim:
-- 🎓 Cursando na Universidade estácio-sa 4° Semestre
-- 🖥️ Desenvolvedor Web Fullstack 
-- 📚 Estudando Inglês e espanhol nos tempos livres
-- 🚀 Apaixonado por Tecnologia
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KayohanCosta&style=for-the-badge&color=blue" />
+</p>
 
 ---
 
-### Portfólio:
+Desenvolvedor Front-end Full Stack | 30 anos, Brasileiro  
+📍 Fortaleza – CE
+
+---
+
+### Sobre Mim
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** – 5º Semestre (Estácio)
+- 🖥️ Desenvolvedor Web **Full Stack**
+- 📚 Estudando **Inglês** e **Espanhol**
+- 🚀 Apaixonado por tecnologia e soluções modernas
+
+---
+
+### Portfólio
 [![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white)](https://kayohancostadev.netlify.app/)
 
 ---
 
-### Redes Sociais:
+### Redes Sociais
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kayohan.costa/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayohancosta_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayoha-costa-1b2a38173/)
 
 ---
 
-### Tech Stack:
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+### Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python" />
+</p>
 
 ---
 
-### Sistemas Operacionais:
-![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
-![Mac OS](https://img.shields.io/badge/-Mac%20OS-333333?style=flat&logo=apple)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+### Prototipagem & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd" />
+</p>
+
+### Sistemas Operacionais
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,apple" />
+</p>
 
 ---
 
-### GitHub Stats:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KayohanCosta&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KayohanCosta&show_icons=true&theme=dark)
+### Atividade no GitHub
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KayohanCosta&theme=dark"/>
+</p>
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=KayohanCosta&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-### Random Dev Quote
+### 💬 Frase
 > “Se, a princípio, a ideia não é absurda, então não há esperança para ela.” – Albert Einstein
-
