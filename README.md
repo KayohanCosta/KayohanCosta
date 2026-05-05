@@ -37,7 +37,7 @@ Desenvolvedor Front-end Full Stack | 30 anos, Brasileiro
 
 ### Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react.tailwind.css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react.tailwind" />
 </p>
 
 ---
