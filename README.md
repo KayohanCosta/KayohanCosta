@@ -24,7 +24,7 @@ Desenvolvedor Front-end Full Stack | 30 anos, Brasileiro
 ---
 
 ### Portfólio
-[![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white)](https://kayohancostadev.netlify.app/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white)](https://kayohancostadev.vercel.app/)
 
 ---
 
@@ -37,7 +37,7 @@ Desenvolvedor Front-end Full Stack | 30 anos, Brasileiro
 
 ### Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react.tailwind.css" />
 </p>
 
 ---
