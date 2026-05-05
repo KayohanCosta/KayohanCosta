@@ -47,6 +47,8 @@ const kayohan = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 **Back-end & Banco de Dados**
 
@@ -74,53 +76,71 @@ const kayohan = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🦷 Dentus Dental Clinic</h3>
-      <p align="center">Site profissional para clínica odontológica com foco em atendimento e apresentação de serviços.</p>
+      <h3 align="center">🎬 Mox Streaming</h3>
+      <p align="center">Plataforma de filmes e séries que consome a API do TMDB para exibir conteúdos em cards dinâmicos, com interface moderna e responsiva.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/shadcn%2Fui-000?style=flat-square&logo=shadcnui&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://dentusclinica.vercel.app/"><img src="https://img.shields.io/badge/🔗_Ver_Projeto-Live-36BCF7?style=for-the-badge"/></a>
+        <a href="https://github.com/KayohanCosta/Mox-Streaming">
+          <img src="https://img.shields.io/badge/📁_Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🕹️ G3 Gamer Store</h3>
-      <p align="center">Landing page moderna para loja de hardware e games, otimizada para performance e conversão.</p>
+      <h3 align="center">🥗 Irene Comida Saudável</h3>
+      <p align="center">App de delivery de comida saudável com stack moderna, roteamento avançado via TanStack Router e design responsivo com Tailwind CSS v4.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://g3gamerstore.vercel.app/"><img src="https://img.shields.io/badge/🔗_Ver_Projeto-Live-36BCF7?style=for-the-badge"/></a>
+        <a href="https://github.com/KayohanCosta/Irene-Comida-Suadavel">
+          <img src="https://img.shields.io/badge/📁_Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">⚙️ Tecnomania</h3>
-      <p align="center">Plataforma de serviços com sistema administrativo, avaliações de clientes e gestão de negócios.</p>
+      <h3 align="center">🕹️ G3 Gamer Store</h3>
+      <p align="center">Landing page moderna para loja de hardware e games, otimizada para performance e conversão, com design imersivo e responsivo.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://tecnomaniasite.vercel.app/"><img src="https://img.shields.io/badge/🔗_Ver_Projeto-Live-36BCF7?style=for-the-badge"/></a>
+        <a href="https://github.com/KayohanCosta/g3-gamer-store">
+          <img src="https://img.shields.io/badge/📁_Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://g3gamerstore.vercel.app/">
+          <img src="https://img.shields.io/badge/🔗_Live-36BCF7?style=for-the-badge"/>
+        </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">🍹 One Two Drinks Bar</h3>
-      <p align="center">Presença digital para bar de coquetéis premium, referência em vida noturna em Fortaleza.</p>
+      <p align="center">Presença digital para bar de coquetéis premium em Fortaleza, com design sofisticado e experiência imersiva para o cliente.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://kayohancostadev.vercel.app/projects"><img src="https://img.shields.io/badge/🔗_Ver_no_Portfólio-36BCF7?style=for-the-badge"/></a>
+        <a href="https://github.com/KayohanCosta/One-Two-drinks">
+          <img src="https://img.shields.io/badge/📁_Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://onetwodrink.vercel.app/">
+          <img src="https://img.shields.io/badge/🔗_Live-36BCF7?style=for-the-badge"/>
+        </a>
       </p>
     </td>
   </tr>
