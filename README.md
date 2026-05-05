@@ -163,9 +163,7 @@ const kayohan = {
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=KayohanCosta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayohanCosta&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KayohanCosta&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KayohanCosta&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KayohanCosta&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
