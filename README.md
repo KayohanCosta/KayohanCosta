@@ -160,8 +160,8 @@ const kayohan = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KayohanCosta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayohanCosta&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-profile-stats.cyclic.app/api?username=KayohanCosta&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayohanCosta&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=3600" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KayohanCosta&theme=tokyo-night&hide_border=true&area=true" />
 
