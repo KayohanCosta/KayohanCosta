@@ -89,6 +89,9 @@ const kayohan = {
         <a href="https://github.com/KayohanCosta/Mox-Streaming">
           <img src="https://img.shields.io/badge/📁_Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
+        <a href="https://mox-streaming.vercel.app/">
+          <img src="https://img.shields.io/badge/🔗_Live-36BCF7?style=for-the-badge"/>
+        </a>
       </p>
     </td>
     <td width="50%">
@@ -104,6 +107,9 @@ const kayohan = {
       <p align="center">
         <a href="https://github.com/KayohanCosta/Irene-Comida-Suadavel">
           <img src="https://img.shields.io/badge/📁_Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://irenecomidasaudavel.vercel.app/">
+          <img src="https://img.shields.io/badge/🔗_Live-36BCF7?style=for-the-badge"/>
         </a>
       </p>
     </td>
