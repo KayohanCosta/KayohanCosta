@@ -50,20 +50,18 @@ Cursando **Análise e Desenvolvimento de Sistemas** (Estácio, 5º semestre), em
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 Mox Streaming
-Plataforma de filmes e séries que consome a API do **TMDB** e renderiza o catálogo em cards dinâmicos, com UI moderna e responsiva.
+<a href="https://mox-streaming.vercel.app/"><img src="./assets/project-mox-streaming.svg" width="100%" alt="Mox Streaming"></a>
 
-`React` `TypeScript` `Vite` `Tailwind` `shadcn/ui`
+Plataforma de filmes e séries que consome a API do **TMDB** e renderiza o catálogo em cards dinâmicos, com UI moderna e responsiva.
 
 [**Código →**](https://github.com/KayohanCosta/Mox-Streaming) · [**Demo →**](https://mox-streaming.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🥗 Irene Comida Saudável
-App de delivery de comida saudável com **React 19**, roteamento type-safe via **TanStack Router** e **Tailwind v4**.
+<a href="https://irenecomidasaudavel.vercel.app/"><img src="./assets/project-irene.svg" width="100%" alt="Irene Comida Saudável"></a>
 
-`React 19` `TypeScript` `TanStack` `Tailwind v4` `Vite`
+App de delivery de comida saudável com **React 19**, roteamento type-safe via **TanStack Router** e **Tailwind v4**.
 
 [**Código →**](https://github.com/KayohanCosta/Irene-Comida-Suadavel) · [**Demo →**](https://irenecomidasaudavel.vercel.app/)
 
@@ -72,20 +70,18 @@ App de delivery de comida saudável com **React 19**, roteamento type-safe via *
 <tr>
 <td width="50%" valign="top">
 
-### 🕹️ G3 Gamer Store
-Landing page para loja de hardware e games, pensada para **performance e conversão**, com visual imersivo e responsivo.
+<a href="https://g3gamerstore.vercel.app/"><img src="./assets/project-g3-gamer-store.svg" width="100%" alt="G3 Gamer Store"></a>
 
-`React` `TypeScript` `Tailwind`
+Landing page para loja de hardware e games, pensada para **performance e conversão**, com visual imersivo e responsivo.
 
 [**Código →**](https://github.com/KayohanCosta/g3-gamer-store) · [**Demo →**](https://g3gamerstore.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🍹 One Two Drinks Bar
-Presença digital para um bar de coquetéis premium em Fortaleza: design sofisticado e experiência imersiva.
+<a href="https://onetwodrink.vercel.app/"><img src="./assets/project-one-two-drinks.svg" width="100%" alt="One Two Drinks Bar"></a>
 
-`Next.js` `TypeScript` `Tailwind`
+Presença digital para um bar de coquetéis premium em Fortaleza: design sofisticado e experiência imersiva.
 
 [**Código →**](https://github.com/KayohanCosta/One-Two-drinks) · [**Demo →**](https://onetwodrink.vercel.app/)
 
@@ -96,15 +92,6 @@ Presença digital para um bar de coquetéis premium em Fortaleza: design sofisti
 <div align="right"><sub>Todos os projetos em <a href="https://kayohancostadev.vercel.app/projects">kayohancostadev.vercel.app/projects</a></sub></div>
 
 <br/>
-
-## `05` · Atividade
-
-<div align="center">
-<img src="./assets/activity.svg" alt="Calendário de contribuições no GitHub" width="100%"/>
-</div>
-
-<br/>
-
 ## `06` · Contato
 
 Aberto a oportunidades como **Front-end / Full Stack**. Para projetos e soluções web sob demanda, conheça a [**Mox Desenvolvimento e Soluções Web**](https://mox-desenvolvimento.vercel.app/).
