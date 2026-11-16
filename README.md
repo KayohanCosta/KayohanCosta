@@ -92,6 +92,7 @@ Presença digital para um bar de coquetéis premium em Fortaleza: design sofisti
 <div align="right"><sub>Todos os projetos em <a href="https://kayohancostadev.vercel.app/projects">kayohancostadev.vercel.app/projects</a></sub></div>
 
 <br/>
+
 ## `06` · Contato
 
 Aberto a oportunidades como **Front-end / Full Stack**. Para projetos e soluções web sob demanda, conheça a [**Mox Desenvolvimento e Soluções Web**](https://mox-desenvolvimento.vercel.app/).
